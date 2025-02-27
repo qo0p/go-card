@@ -25,7 +25,7 @@ package smartcard
 import (
     "fmt"
     "bytes"
-    "github.com/sf1/go-card/smartcard/pcsc"
+    "github.com/qo0p/go-card/smartcard/pcsc"
 )
 
 const (

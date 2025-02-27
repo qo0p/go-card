@@ -2,7 +2,7 @@ package main
 
 import (
     "fmt"
-    "github.com/sf1/go-card/smartcard"
+    "github.com/qo0p/go-card/smartcard"
 )
 
 func main() {
